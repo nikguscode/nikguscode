@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikguscode&label=Profile%20views&color=0e75b6&style=flat" alt="nikguscode" /> </p>
 
-- 🔭 I’m currently working on [TaskTimer Bot](https://github.com/nikguscode/TaskTimer)
+- 🔭 I’m currently working on [CRM Bot](https://github.com/nikguscode/CRMBot)
 
 - 🌱 I’m currently learning **Spring JPA, Hibernate**
 
